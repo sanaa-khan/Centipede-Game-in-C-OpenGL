@@ -19,3 +19,6 @@ A simple shooter game, developed in C++ and OpenGL
 ##### LazySeg: A lazy segment in a centipede <br>
 ##### MagicSeg: A magic segment in a centipede <br>
 ##### MoveableObject: The base class for any moveable object in the game e.g. player, bullet, centipede 
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
