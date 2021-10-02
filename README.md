@@ -1,4 +1,4 @@
-# Centipede-Game-in-C-OpenGL
+# Centipede Game in C++ and OpenGL
 A simple shooter game, developed in C++ and OpenGL
 
 ### How to run: <br>
